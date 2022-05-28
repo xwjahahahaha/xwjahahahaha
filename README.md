@@ -5,13 +5,12 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: 1438575858@qq.com
+- 📫 How to contact me: 1438575858@qq.com
 - 😄 Pronouns: None
 - ⚡ Fun fact: None
 
 
 下面是关于我的一些文章分享，希望能够激励自己坚持✊的同时一起进步😄😄😄
-
 
 [个人CSDN主页](https://blog.csdn.net/weixin_43988498?type=blog)
 

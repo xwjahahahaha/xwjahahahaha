@@ -28,7 +28,8 @@
 eBPF相关：
 * [《eBPF-1-基础与技术储备》](https://blog.csdn.net/weixin_43988498/article/details/124937929?spm=1001.2014.3001.5501)
 
-CSAPP-深入理解计算机系统
+CSAPP-深入理解计算机系统：
 * [《CSAPP-1-计算机系统漫游》](https://blog.csdn.net/weixin_43988498/article/details/125022225?spm=1001.2014.3001.5502)
 
-
+C：
+* [C语言程序设计现代方法-1-概述与基本概念(前两章)](https://blog.csdn.net/weixin_43988498/article/details/125036270?spm=1001.2014.3001.5502)

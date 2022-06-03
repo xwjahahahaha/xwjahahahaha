@@ -27,6 +27,7 @@
 
 eBPF相关：
 * [《eBPF-1-基础与技术储备》](https://blog.csdn.net/weixin_43988498/article/details/124937929?spm=1001.2014.3001.5501)
+* [《eBPF-2-实战之编程接口、bcc与bpftrace》](https://blog.csdn.net/weixin_43988498/article/details/125113777?spm=1001.2014.3001.5502)
 
 CSAPP-深入理解计算机系统：
 * [《CSAPP-1-计算机系统漫游》](https://blog.csdn.net/weixin_43988498/article/details/125022225?spm=1001.2014.3001.5502)

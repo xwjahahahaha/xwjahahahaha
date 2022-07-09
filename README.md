@@ -20,7 +20,7 @@
 * [《Fabric》](https://blog.csdn.net/weixin_43988498/category_11842773.html)
 
 联邦学习：
-* [《一些论文+实战》](https://blog.csdn.net/weixin_43988498/category_10956310.html)
+* [一些论文+实战](https://blog.csdn.net/weixin_43988498/category_10956310.html)
 
 云原生相关：
 * [《动手实现一个docker引擎-1-从内核到docker的三驾马车》](https://blog.csdn.net/weixin_43988498/article/details/121044780)
@@ -44,4 +44,4 @@ C：
 * [《C语言程序设计现代方法-1-概述与基本概念(前两章)》](https://blog.csdn.net/weixin_43988498/article/details/125036270?spm=1001.2014.3001.5502)
 
 golang：
-* [《golang相关文章》](https://blog.csdn.net/weixin_43988498/category_10600295.html?spm=1001.2014.3001.5482)
+* [golang相关文章](https://blog.csdn.net/weixin_43988498/category_10600295.html?spm=1001.2014.3001.5482)

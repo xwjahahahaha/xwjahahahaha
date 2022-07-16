@@ -30,12 +30,13 @@
 * [《动手实现一个docker引擎-5-终版:容器网络的构建》](https://blog.csdn.net/weixin_43988498/article/details/121397979)
 
 eBPF相关：
-* [《eBPF-1-基础与技术储备》](https://blog.csdn.net/weixin_43988498/article/details/124937929?spm=1001.2014.3001.5501)
-* [《eBPF-2-实战之编程接口、bcc与bpftrace》](https://blog.csdn.net/weixin_43988498/article/details/125113777?spm=1001.2014.3001.5502)
-* [ 《eBPF-3-profile的源码解析》](https://blog.csdn.net/weixin_43988498/article/details/125607693)
+* [《eBPF-1-基础与技术储备》](https://blog.csdn.net/weixin_43988498/article/details/124937929)
+* [《eBPF-2-实战之编程接口、bcc与bpftrace》](https://blog.csdn.net/weixin_43988498/article/details/125113777)
+* [《eBPF-3-profile的源码解析》](https://blog.csdn.net/weixin_43988498/article/details/125607693)
 
 linux内核：
 * [《深入理解linux内核》-1-绪论](https://blog.csdn.net/weixin_43988498/article/details/125464889?spm=1001.2014.3001.5502)
+* [《深入理解linux内核》-2-内存寻址](https://blog.csdn.net/weixin_43988498/article/details/125825057)
 
 CSAPP-深入理解计算机系统：
 * [《CSAPP-1-计算机系统漫游》](https://blog.csdn.net/weixin_43988498/article/details/125022225?spm=1001.2014.3001.5502)

@@ -38,6 +38,9 @@ linux内核：
 * [《深入理解linux内核》-1-绪论](https://blog.csdn.net/weixin_43988498/article/details/125464889?spm=1001.2014.3001.5502)
 * [《深入理解linux内核》-2-内存寻址](https://blog.csdn.net/weixin_43988498/article/details/125825057)
 
+动手实现操作系统：
+* [《动手实现一个os-1-HellOS(操作系统层面的helloworld)》](https://blog.csdn.net/weixin_43988498/article/details/125857595)
+
 CSAPP-深入理解计算机系统：
 * [《CSAPP-1-计算机系统漫游》](https://blog.csdn.net/weixin_43988498/article/details/125022225?spm=1001.2014.3001.5502)
 

@@ -33,7 +33,7 @@ eBPF相关：
 * [《eBPF-1-基础与技术储备》](https://blog.csdn.net/weixin_43988498/article/details/124937929)
 * [《eBPF-2-实战之编程接口、bcc与bpftrace》](https://blog.csdn.net/weixin_43988498/article/details/125113777)
 * [《eBPF-3-profile的源码解析》](https://blog.csdn.net/weixin_43988498/article/details/125607693)
-* [《ebpf-4-perf_map的丢失事件lost_event解读》](https://blog.csdn.net/weixin_43988498/article/details/125993233)
+* [《eBPF-4-perf_map的丢失事件lost_event解读》](https://blog.csdn.net/weixin_43988498/article/details/125993233)
 
 linux内核：
 * [《深入理解linux内核》-1-绪论](https://blog.csdn.net/weixin_43988498/article/details/125464889?spm=1001.2014.3001.5502)

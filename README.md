@@ -41,6 +41,7 @@ linux内核：
 
 动手实现操作系统：
 * [《动手实现一个os-1-HellOS(操作系统层面的helloworld)》](https://blog.csdn.net/weixin_43988498/article/details/125857595)
+* [《动手实现一个os-2-内核结构与设计》](https://blog.csdn.net/weixin_43988498/article/details/127519878)
 
 CSAPP-深入理解计算机系统：
 * [《CSAPP-1-计算机系统漫游》](https://blog.csdn.net/weixin_43988498/article/details/125022225?spm=1001.2014.3001.5502)

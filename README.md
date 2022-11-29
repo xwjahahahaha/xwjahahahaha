@@ -1,14 +1,14 @@
 ### Hi there 👋 感谢光临许文杰的仓库主页
 
-- 🔭 I’m currently working on 网易NetEase
-- 🌱 I’m currently learning eBPF、Linux Kernel、C ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I used to work in NetEase, and I may work for ByteDance in the future
+- 🌱 I’m currently learning golang、docker、kubernetes、eBPF、Linux Kernel / Operating System、C/C++...
 - 📫 How to contact me: 1438575858@qq.com
-- 😄 Pronouns: None
-- ⚡ Fun fact: None
 
+Personal technology stack：
+
+![IT技能树🌲](http://xwjpics.gumptlu.work/qinniu_uPic/IT技能树🌲.png)
+
+（Last updated 2022-11-29）
 
 下面是关于我的一些文章分享，希望能够激励自己坚持✊的同时一起进步😄😄😄
 

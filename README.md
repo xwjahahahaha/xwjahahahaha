@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning golang、docker、kubernetes、eBPF、Linux Kernel / Operating System、C/C++...
 - 📫 How to contact me: 1438575858@qq.com
 
-Personal technology stack（个人IT技术树）：
+Personal technology stack（个人IT技能树）：
 
 ![IT技能树🌲](http://xwjpics.gumptlu.work/qinniu_uPic/IT技能树🌲.png)
 

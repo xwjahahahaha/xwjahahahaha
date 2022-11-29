@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning golang、docker、kubernetes、eBPF、Linux Kernel / Operating System、C/C++...
 - 📫 How to contact me: 1438575858@qq.com
 
-Personal technology stack：
+Personal technology stack（个人IT技术树）：
 
 ![IT技能树🌲](http://xwjpics.gumptlu.work/qinniu_uPic/IT技能树🌲.png)
 
@@ -46,8 +46,9 @@ linux内核：
 CSAPP-深入理解计算机系统：
 * [《CSAPP-1-计算机系统漫游》](https://blog.csdn.net/weixin_43988498/article/details/125022225?spm=1001.2014.3001.5502)
 
-C：
+C/C++：
 * [《C语言程序设计现代方法-1-概述与基本概念(前两章)》](https://blog.csdn.net/weixin_43988498/article/details/125036270?spm=1001.2014.3001.5502)
+* [《C++ Primer》-1-前序与基础第I部分重点](https://blog.csdn.net/weixin_43988498/article/details/128105857)
 
 golang：
 * [golang相关文章](https://blog.csdn.net/weixin_43988498/category_10600295.html?spm=1001.2014.3001.5482)

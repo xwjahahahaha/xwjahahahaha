@@ -12,7 +12,7 @@ Personal technology stack（个人IT技能树）：
 
 下面是关于我的一些文章分享，希望能够激励自己坚持✊的同时一起进步😄😄😄
 
-[个人CSDN主页](https://blog.csdn.net/weixin_43988498?type=blog)
+[个人CSDN主页](https://blog.csdn.net/weixin_43988498)
 
 区块链相关：
 * [《北大肖臻区块链公开课(共26讲)》](https://blog.csdn.net/weixin_43988498/category_10443931.html)

@@ -6,7 +6,7 @@
 
 Personal technology stack（个人IT技能树）：
 
-![IT技能树🌲](http://xwjpics.gumptlu.work/qinniu_uPic/IT技能树🌲.png)
+![IT技能树🌲](http://xwjpics.gumptlu.work/qinniu_uPic/IT技能树.png)
 
 （Last updated 2022-11-29）
 
